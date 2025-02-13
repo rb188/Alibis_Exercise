@@ -1,0 +1,20 @@
+{
+  "name": "alibis_exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dist/index.js",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/inquirer-autocomplete-prompt": "^2.0.0",
+    "inquirer": "^8.2.6",
+    "inquirer-autocomplete-prompt": "^3.0.1",
+    "typescript": "^5.7.3"
+  }
+}
